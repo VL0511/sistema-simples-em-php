@@ -40,8 +40,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `nome`, `email`, `senha`) VALUES
-(1, 'Vitor Leonardo', 'aaaa@gmail.com', 'testedeemail'),
-(2, 'Vitor Leonardo', 'testeaaaa@gmail.com', 'testedeemail'),
+(1, 'Yuki', 'aaaa@gmail.com', 'testedeemail'),
+(2, 'Shine', 'testeaaaa@gmail.com', 'testedeemail'),
 (3, 'Cleiton', 'cleitindazo@gmail.com', 'muepau123');
 
 --
