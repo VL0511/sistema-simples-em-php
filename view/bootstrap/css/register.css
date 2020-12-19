@@ -1,0 +1,31 @@
+body{
+    background: url("../img/bg.png") no-repeat center center fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size: cover;
+}
+
+.title{
+    font-family: 'Roboto';
+}
+
+.form_register{
+    width: 500px;
+    height: 310px;
+    background: white;
+    border-radius: 4px;
+    border: 2px solid black;
+}
+
+.form_register input[type="text"], input[type="email"], input[type="password"]{
+    width: 240px;
+    height: 35px;
+    padding: 4px;
+    margin-top: 10px;
+}
+
+.btn{
+    width: 240px;
+    height: 45px;
+}
