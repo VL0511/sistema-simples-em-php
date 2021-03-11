@@ -24,3 +24,8 @@ git clone https://github.com/VL0511/sistema-simples-em-php.git
 # Index.php page
 
 Homepage of the website, where there are two buttons, one to go to the login screen and the other to register in the system.
+
+
+### Test file
+
+/model/index.php Test file.
