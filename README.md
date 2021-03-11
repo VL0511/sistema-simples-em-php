@@ -28,4 +28,4 @@ Homepage of the website, where there are two buttons, one to go to the login scr
 
 ### Test file
 
-/model/index.php Test file.
+Path: /model/index.php Test file.
